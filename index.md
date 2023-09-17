@@ -17,7 +17,7 @@ title: 人工智能芯片：设计与实践
 | 1    | 23/9/13  | Class Introduction [\[slides\]](/assets/lec/Lec1_intro.pdf)             |           |            |
 | 2    | 23/9/20  | Advanced HDL basics & Timing [\[slides\]](/assets/lec/Lec2_verilog.pdf) |           |            |
 | 3    | 23/9/27  | Logic Synthesis - I                                                     |           |            |
-| 4    | 23/10/4  | No Lecture                                                              |           |            |
+| 4    | 23/10/4  | Happy holiday😃                                                        |           |            |
 | 5    | 23/10/11 | Logic Synthesis - II                                                    |           |            |
 | 6    | 23/10/18 | Logic Synthesis In-Class Lab                                            |           |            |
 | 7    | 23/10/25 | Memory Technologies                                                     |           |            |
