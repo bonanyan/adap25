@@ -32,7 +32,7 @@ title: 人工智能芯片：设计与实践
 | 14   | 12/11                                                     | Instrumentalism Intro of Latest Machine Learning & Lab Time ([slides](/assets/lec/Lec8_nn.pdf))                                        |                                                                                                          |            |
 | 15   | 12/18                                                     | Latest Hardware Design Languages & Lab ([slides](/assets/lec/Lec9_advflow.pdf)) Time                                                        |                                                                                                          |            |
 | 16   | 12/25                                                     | Final Presentation - Progress Report II (the last lecture)                                         |                                                                                                          |            |
-| 19   | Jan 13 11:59:00,2025 (tentative) Final Project Submission | [Final Exam Week] No Lecture                                                                       |                                                                                                          |            |
+| 19   | Jan 13 11:59:00,2025 (tentative) Final Project Submission [slides](/assets/lec/Final_Project_submission_2024.pdf) | [Final Exam Week] No Lecture                                                                       |                                                                                                          |            |
 
 ## USEFUL TOOLS
 
