@@ -33,6 +33,7 @@ title: 人工智能芯片：设计与实践
 | 16   | 12/24                                                     | Final Presentation                                                                                                                                                                                                         |                                                                                                          |            |
 | 19   | Jan 13 11:59:00,2025 (tentative) Final Project Submission | [Final Exam Week] No Lecture                                                                                                                                                                                               |                                                                                                          |            |
 
+
 ## USEFUL TOOLS
 
 - [Wavedrom](https://wavedrom.com): waveform drawing tool
@@ -46,3 +47,5 @@ title: 人工智能芯片：设计与实践
 - Assignments: 20%
 - Presentation: 40%
 - Final Paper : 40%
+
+---
