@@ -40,6 +40,7 @@ title: 人工智能芯片：设计与实践
 - [iVerilog](https://github.com/steveicarus/iverilog): Verilog compilers/simulator
 - [GTKWave](https://gtkwave.sourceforge.net): waveform viewer
 - [PISLib](https://bonany.gitlab.io/pis/): behavioral models of processing-in-memory and memory
+- [Memory RTL behavioral model](/other/memory-behavior-RTL-model.zip): behavioral model for memories
 
 
 ## GRADE BREAKDOWN
